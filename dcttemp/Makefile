@@ -1,3 +1,0 @@
-COMPONENT=RadioDctTempAppC
-include $(MAKERULES)
-

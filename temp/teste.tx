@@ -1,9 +1,0 @@
-In order to load the library 'toscomm' Java tries to locate the file 'libtoscomm.so' in one of the following paths:
-/usr/java/packages/lib/i386:/usr/lib/i386-linux-gnu/jni:/lib/i386-linux-gnu:/usr/lib/i386-linux-gnu:/usr/lib/jni:/lib:/usr/lib
-
-The operating system is 'Linux' (i386)
-
-Trying to locate the file 'linux_x86_toscomm.lib' in the classpath
-Temporary file created: '/tmp/toscomm45378872653782134.lib'
-Library copied successfully. Let's load it.
-Library loaded successfully

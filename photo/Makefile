@@ -1,3 +1,0 @@
-COMPONENT=RadioPhotoAppC
-include $(MAKERULES)
-
