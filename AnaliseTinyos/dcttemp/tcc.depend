@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1400609858 source:d:\bibliotecas\documentos\sávio neves\unb\10º semestre\pf2\tcc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1400609858 source:d:\bibliotecas\documentos\sávio neves\unb\10º semestre\pf2\dcttemp\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1400715379 source:c:\users\savio\desktop\malvar\malvar\dct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1402409922 source:d:\bibliotecas\documentos\sávio neves\unb\10º semestre\pf2\matlab-trabalho\malvar\malvar\dct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
